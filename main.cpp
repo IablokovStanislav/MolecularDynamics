@@ -7,7 +7,6 @@
 using namespace std;
 int main()
 {
-
     double radius = 1.0;
 
     System system = System();
