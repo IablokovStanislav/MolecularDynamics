@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/study/univer/chemistry/masters/projects/MD/inc/core/Particle.h
+
+F:/study/univer/chemistry/masters/projects/MD/inc/core/System.cpp
+iostream
+-
+ctime
+-
+vector
+-
+cmath
+-
+string
+-
+fstream
+-
+System.h
+F:/study/univer/chemistry/masters/projects/MD/inc/core/System.h
+Particle.h
+F:/study/univer/chemistry/masters/projects/MD/inc/core/Particle.h
+
+F:/study/univer/chemistry/masters/projects/MD/inc/core/System.h
+list
+-
+string
+-
+vector
+-
+Particle.h
+F:/study/univer/chemistry/masters/projects/MD/inc/core/Particle.h
+
