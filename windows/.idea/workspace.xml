@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/inc/core/System.cpp" line="210" mnemonic="8" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="code" targetName="code" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4bd625b7-7e57-4931-bd24-7f977335360e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1494748568">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cpp" value="9" />
+          <entry key="h" value="6" />
+          <entry key="tuple" value="2" />
+          <entry key="txt" value="3" />
+          <entry key="xstddef" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CMakeLists.txt" value="3" />
+          <entry key="ObjectiveC" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="4194" />
+          <entry key="h" value="845" />
+          <entry key="txt" value="75" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CMakeLists.txt" value="75" />
+          <entry key="ObjectiveC" value="5039" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="36" column="66" lean-forward="true" selection-start-line="36" selection-start-column="66" selection-end-line="36" selection-end-column="66" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inc/core/Reaction.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inc/core/Reaction.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="388">
+              <caret line="19" column="45" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="45" />
+              <folding>
+                <element signature="e#90#107#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inc/lib/jsoncpp/jsoncpp.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="72" selection-start-line="72" selection-end-line="72" />
+              <folding>
+                <element signature="e#3284#3331#0" expanded="true" />
+                <element signature="e#3916#3940#0" expanded="true" />
+                <element signature="e#8136#8236#0" expanded="true" />
+                <element signature="e#73414#73491#0" expanded="true" />
+                <element signature="e#80424#80457#0" expanded="true" />
+                <element signature="e#110163#110185#0" expanded="true" />
+                <element signature="e#113844#113856#0" expanded="true" />
+                <element signature="e#114270#114294#0" expanded="true" />
+                <element signature="e#114394#114406#0" expanded="true" />
+                <element signature="e#116220#116316#0" expanded="true" />
+                <element signature="e#124391#124438#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inc/core/Particle.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="e#41#60#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inc/core/Particle.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="26" column="106" lean-forward="true" selection-start-line="26" selection-start-column="106" selection-end-line="26" selection-end-column="106" />
+              <folding>
+                <element signature="e#86#103#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/inc/core/System.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="208" column="76" selection-start-line="208" selection-start-column="76" selection-end-line="208" selection-end-column="76" />
+              <folding>
+                <element signature="e#40#59#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inc/core/System.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="48" column="36" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="36" />
+              <folding>
+                <element signature="e#82#97#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/inc/lib/jsoncpp/jsoncpp.cpp" />
+        <option value="$PROJECT_DIR$/inc/core/Particle.cpp" />
+        <option value="$PROJECT_DIR$/inc/core/Reaction.h" />
+        <option value="$PROJECT_DIR$/inc/core/Reaction.cpp" />
+        <option value="$PROJECT_DIR$/inc/core/Particle.h" />
+        <option value="$PROJECT_DIR$/inc/core/System.h" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/inc/core/System.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="960" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>C/C++</id>
+          </State>
+          <State>
+            <id>Declaration orderC/C++</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>MethodsObjective-C</id>
+          </State>
+          <State>
+            <id>Objective-C</id>
+          </State>
+          <State>
+            <id>PropertiesObjective-C</id>
+          </State>
+          <State>
+            <id>Type checksC/C++</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="inc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="inc" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/inc/core/Particle.cpp" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.code">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="code" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="code" TARGET_NAME="code" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="code" RUN_TARGET_NAME="code">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.code" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bd625b7-7e57-4931-bd24-7f977335360e" name="Default Changelist" comment="" />
+      <created>1541420940392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541420940392</updated>
+      <workItem from="1541420942636" duration="27058000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="27058000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" weight="0.23752712" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="CMake" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41323212" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/inc/lib/jsoncpp/json.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/lib/jsoncpp/jsoncpp.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+          <folding>
+            <element signature="e#3284#3331#0" expanded="true" />
+            <element signature="e#3916#3940#0" expanded="true" />
+            <element signature="e#8136#8236#0" expanded="true" />
+            <element signature="e#73414#73491#0" expanded="true" />
+            <element signature="e#80424#80457#0" expanded="true" />
+            <element signature="e#110163#110185#0" expanded="true" />
+            <element signature="e#113844#113856#0" expanded="true" />
+            <element signature="e#114270#114294#0" expanded="true" />
+            <element signature="e#114394#114406#0" expanded="true" />
+            <element signature="e#116220#116316#0" expanded="true" />
+            <element signature="e#124391#124438#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/VC/Tools/MSVC/14.12.25827/include/tuple">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="1108" selection-start-line="1108" selection-end-line="1108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/VC/Tools/MSVC/14.12.25827/include/xstddef">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="155" selection-start-line="155" selection-end-line="155" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/core/Reaction.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="19" column="45" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="45" />
+          <folding>
+            <element signature="e#90#107#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/core/Particle.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#41#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/core/Particle.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="26" column="106" lean-forward="true" selection-start-line="26" selection-start-column="106" selection-end-line="26" selection-end-column="106" />
+          <folding>
+            <element signature="e#86#103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/core/System.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="48" column="36" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="36" />
+          <folding>
+            <element signature="e#82#97#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/core/Reaction.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="36" column="66" lean-forward="true" selection-start-line="36" selection-start-column="66" selection-end-line="36" selection-end-column="66" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/core/System.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="208" column="76" selection-start-line="208" selection-start-column="76" selection-end-line="208" selection-end-column="76" />
+          <folding>
+            <element signature="e#40#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

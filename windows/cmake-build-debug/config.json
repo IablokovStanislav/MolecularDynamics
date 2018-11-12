@@ -1,0 +1,24 @@
+{
+    "particles":
+    [
+        {"type": "H2", "coords": [0.0, 0.0, 0.0], "coordsRandom": true, "amount": 400},
+        {"type": "O2", "coords": [0.0, 0.0, 0.0], "coordsRandom": true, "amount": 200},
+        {"type": "H2O", "coords": [0.0, 0.0, 0.0], "coordsRandom": true, "amount": 1}
+    ],
+
+    "reactions":
+    [
+        {
+            "name": "waterCreation", 
+            "reactants": [{"type": "H2", "stochiometry": 2}, {"type": "O2", "stochiometry": 1}],
+            "products": [{"type": "H2O", "stochiometry": 2}],
+            "probability": 0.5
+        },
+        {
+            "name": "waterDestruction", 
+            "reactants": [{"type": "H2O", "stochiometry": 2}],
+            "products": [{"type": "H2", "stochiometry": 2}, {"type": "O2", "stochiometry": 1}],
+            "probability": 0.001
+        }
+    ]
+}
